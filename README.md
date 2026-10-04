@@ -22,8 +22,9 @@
 </p>
 
 <h3 align="center">LeetCode</h3>
-<p align="center">
-  <a href="https://leetcode.com/u/SzVntSWwTK/">
-    <img src="https://leetcard.jacoblin.cool/SzVntSWwTK?ext=heatmap" alt="LeetCode stats" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/SzVntSWwTK/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/leetcode-dark.svg" />
+    <img src="assets/leetcode-light.svg" width="100%" alt="LeetCode stats" />
+  </picture>
+</a>
