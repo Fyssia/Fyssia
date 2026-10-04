@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,100:00ADD8&height=200&section=header&text=Fyssia&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=Backend%20developer%20working%20with%20Go&descSize=24&descAlignY=60" width="100%" alt="Fyssia — Backend developer working with Go" />
+<h1 align="center">Hi, I'm Fyssia 👋</h1>
+<p align="center">Backend developer working with Go</p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -21,8 +22,8 @@
 </p>
 
 <h3 align="center">LeetCode</h3>
-<a href="https://leetcode.com/u/SzVntSWwTK/">
-  <img src="https://leetcard.jacoblin.cool/SzVntSWwTK?ext=heatmap" width="100%" alt="LeetCode stats" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0a3d62&height=110&section=footer" width="100%" alt="" />
+<p align="center">
+  <a href="https://leetcode.com/u/SzVntSWwTK/">
+    <img src="https://leetcard.jacoblin.cool/SzVntSWwTK?ext=heatmap" alt="LeetCode stats" />
+  </a>
+</p>
