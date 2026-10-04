@@ -1,19 +1,19 @@
-## Привет, я Fyssia 👋
+## Hi, I'm Fyssia 👋
 
-Backend-разработчик на Go. Учусь на 4 курсе КЭИ в Ульяновске, люблю быстрые и надёжные сервисы.
+Backend developer working with Go.
 
 ### Backend
 
 [![Backend](https://skillicons.dev/icons?i=go,postgres,mysql,redis,kafka,rabbitmq,elasticsearch&perline=7)](https://skillicons.dev)
 
-### Инфраструктура
+### Infrastructure
 
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,grafana,linux,git&perline=7)](https://skillicons.dev)
 
-### Фронтенд
+### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs&perline=7)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux&perline=7)](https://skillicons.dev)
 
-### Окружение
+### Environment
 
 [![Setup](https://skillicons.dev/icons?i=nix,neovim,bash&perline=7)](https://skillicons.dev)
