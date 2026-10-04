@@ -17,3 +17,7 @@ Backend developer working with Go.
 ### Environment
 
 [![Setup](https://skillicons.dev/icons?i=nix,neovim,bash&perline=7)](https://skillicons.dev)
+
+### LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SzVntSWwTK?ext=heatmap)](https://leetcode.com/u/SzVntSWwTK/)
